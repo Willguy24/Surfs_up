@@ -4,9 +4,9 @@
 The Surfs up project has us checking weather data in Hawaii to give to our investor W.Avy for our surf and ice cream shop. We are using SQLite data from multiple different weather stations about temperatures and precipitation.
 
 ## Results
-![June_screenshot](path)
+![June_screenshot](June_screenshot.png)
 
-![Dec_screenshot](path)
+![Dec_screenshot](Dec_screenshot.png)
 ### Difference between June and December
 - The highest temperature is lower in December
 - The lowest temperature is lower in December
